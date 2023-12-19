@@ -1,0 +1,34 @@
+{
+  "name": "google-maps-test-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@googlemaps/react-wrapper": "^1.1.35",
+    "@next/font": "13.1.5",
+    "@react-google-maps/api": "^2.18.1",
+    "bootstrap": "^5.3.1",
+    "dexie": "^3.2.4",
+    "dexie-react-hooks": "^1.1.6",
+    "eslint-config-next": "^13.5.4",
+    "mongodb": "^5.1.0",
+    "next": "^13.2.4",
+    "npm": "^10.1.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "^18.2.0",
+    "swr": "^2.2.4",
+    "webpack": "^5.76.1"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^7.0.0",
+    "@ubilabs/google-maps-react-hooks": "^2.0.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "2.8.4"
+  }
+}
