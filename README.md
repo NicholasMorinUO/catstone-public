@@ -2,7 +2,7 @@
 ## Catstone
 A public version of our SEG4911 Capstone with no client data
 
-### How to run (in the google-maps-test-app directory)
+### How to run
 `npm run build` <br>
 `npm run start`
 
