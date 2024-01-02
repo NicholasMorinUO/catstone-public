@@ -98,7 +98,7 @@ export default function MapPage() {
     });
   
     const algorithm = new SuperClusterAlgorithm({
-      radius: 300
+      radius: 200
     })
     
     const cluster = new MarkerClusterer({map, markers, algorithm});
